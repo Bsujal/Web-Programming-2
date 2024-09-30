@@ -1,0 +1,9 @@
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/MovieticketingsystemApplication.java
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/controllers/MovieController.java
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/controllers/UserController.java
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/entities/Movie.java
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/entities/User.java
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/repositories/MovieRepository.java
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/repositories/UserRepository.java
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/services/MovieService.java
+/Users/sujalbhattarai/Desktop/movieticketingsystem/src/main/java/com/example/movieticketingsystem/services/UserService.java
